@@ -1,0 +1,6 @@
+FlightNumber,PayloadMass,Orbit,LaunchSite,Flights,GridFins,Reused,Legs,LandingPad,Block,ReusedCount,Serial,Orbit_Dummie,LaunchSite_Dummie,LandingPad_Dummie,Serial_Dummie
+1,6104.959411764706,LEO,CCAFS SLC 40,1,False,False,False,,1.0,0,B0003,0.0,0.0,0.0,0.0
+2,525.0,LEO,CCAFS SLC 40,1,False,False,False,,1.0,0,B0005,0.0,0.0,0.0,1.0
+3,677.0,ISS,CCAFS SLC 40,1,False,False,False,,1.0,0,B0007,1.0,0.0,0.0,2.0
+4,500.0,PO,VAFB SLC 4E,1,False,False,False,,1.0,0,B1003,2.0,1.0,0.0,3.0
+5,3170.0,GTO,CCAFS SLC 40,1,False,False,False,,1.0,0,B1004,3.0,0.0,0.0,4.0
